@@ -1,0 +1,42 @@
+.image-fondo{
+    background-image: url("../imagenes\ II/cabecera.jpg");
+    background-size: cover;
+    
+}
+.cabecera{
+    color: rgb(38, 74, 184);
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+    vertical-align: middle;
+    text-shadow:#111 0px 0px 10px;
+}
+p {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+body{
+    background-image: url(../imagenes\ II/fondo.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+ background-size: cover;
+}
+img {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+   }
+   h1{
+       text-align: center;
+   }
+   details{
+       background-color: #111;
+   }
+   a:link {
+       color: aliceblue;
+   }
+
+
+  	
+  
+ 
